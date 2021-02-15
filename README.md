@@ -8,7 +8,11 @@ The GAT architecture we designed is close to the one presented in the paper “G
 
 <p align="center">
   <img src="https://github.com/CarlaMartin092/GAT_PPI_Legacy/blob/master/pictures/attention_block.png?raw=true" width="350" title="attention block">
+</p>
+<p align="center">
   <img src="https://github.com/CarlaMartin092/GAT_PPI_Legacy/blob/master/pictures/multi_head_attention_block.png?raw=true" width="350" title="multi-head attention block">
+</p>
+<p align="center">
   <img src="https://github.com/CarlaMartin092/GAT_PPI_Legacy/blob/master/pictures/improved_gat_architecture.png?raw=true" width="350" title="GAT architecture">
 </p>
 
