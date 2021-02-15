@@ -12,6 +12,8 @@ Attention and Multi-Head attention
   <img src="https://github.com/CarlaMartin092/GAT_PPI_Legacy/blob/master/pictures/multi_head_attention_block.png?raw=true" width="400" title="multi-head attention block" align="right">
 </p>
 
+
+
 GAT Architecture
 <p align="center">
   <img src="https://github.com/CarlaMartin092/GAT_PPI_Legacy/blob/master/pictures/improved_gat_architecture.png?raw=true" width="350" title="GAT architecture">
