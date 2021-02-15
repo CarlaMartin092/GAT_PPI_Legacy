@@ -18,7 +18,7 @@ The GAT architecture we designed is close to the one presented in the paper “G
 
 ### GAT Architecture
 <p align="center">
-  <img src="https://github.com/CarlaMartin092/GAT_PPI_Legacy/blob/master/pictures/improved_gat_architecture.png?raw=true" width="350" title="GAT architecture">
+  <img src="https://github.com/CarlaMartin092/GAT_PPI_Legacy/blob/master/pictures/improved_gat_architecture.png?raw=true" width="600" title="GAT architecture">
 </p>
 
 ## Performance
