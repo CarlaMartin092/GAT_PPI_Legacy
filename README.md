@@ -1,4 +1,4 @@
-# GAT_PPI_Legacy
+# GAT for the PPI Legacy dataset
 
 This repository presents an implementation of an improved Graph Attention Network for binary classification on the PPI Legacy dataset. The PPI Legacy dataset is provided by the Deep Graph Library (dgl).
 
@@ -22,3 +22,5 @@ The GAT architecture we designed is close to the one presented in the paper “G
 </p>
 
 ## Performance
+
+The model is trained using Binary Cross Entropy with Logits Loss, and its performances are measured using the F1-score. After 500 epochs, the model reaches a loss of 0.03 on training data and an F1-score of 97.9% on the test set. 
