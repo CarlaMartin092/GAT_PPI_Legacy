@@ -1,4 +1,4 @@
-# GAT for the PPI Legacy dataset
+# GAT for the protein-protein interaction dataset
 
 This repository presents an implementation of an improved Graph Attention Network for binary classification on the PPI Legacy dataset. The PPI Legacy dataset is provided by the Deep Graph Library (dgl).
 
